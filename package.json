@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "autoprefixer-loader": "^3.2.0",
-    "axios": "^0.8.1",
+    "axios": "^1.7.6",
     "babel": "^6.3.13",
     "babel-core": "^6.3.21",
     "babel-loader": "^6.2.0",
@@ -31,7 +31,7 @@
     "history": "^1.17.0",
     "http-server": "^0.8.5",
     "immutable": "^3.7.6",
-    "node-sass": "^3.4.2",
+    "node-sass": "^9.0.0",
     "object-assign": "^4.0.1",
     "postcss-loader": "^0.8.0",
     "react": "^0.14.3",
@@ -43,7 +43,7 @@
     "redux-simple-router": "^2.0.4",
     "sass-loader": "^3.1.2",
     "style-loader": "^0.13.0",
-    "webpack": "^1.12.9"
+    "webpack": "^5.94.0"
   },
   "devDependencies": {
     "babel-eslint": "^5.0.0-beta6",
@@ -53,8 +53,8 @@
     "redux-devtools": "^3.0.1",
     "redux-devtools-dock-monitor": "^1.0.1",
     "redux-devtools-log-monitor": "^1.0.2",
-    "webpack-dev-middleware": "^1.4.0",
-    "webpack-dev-server": "^1.14.1",
+    "webpack-dev-middleware": "^7.4.2",
+    "webpack-dev-server": "^5.0.4",
     "webpack-hot-middleware": "^2.6.0"
   }
 }
